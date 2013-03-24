@@ -1,10 +1,13 @@
 {
 	"name": "garage",
 	"description": "a simple data file store",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Sebastian Vollnhals <node@vollnhals.info>",
 	"main": "lib/garage.js",
-	"dependencies": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yetzt/node-garage.git"
+	},
 	"engines": {
 		"node": "*"
 	}
