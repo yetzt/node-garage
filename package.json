@@ -1,7 +1,7 @@
 {
 	"name": "garage",
 	"description": "a simple data file store",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"author": "Sebastian Vollnhals <node@vollnhals.info>",
 	"main": "lib/garage.js",
 	"repository": {
