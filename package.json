@@ -1,4 +1,5 @@
 {
+	"private": true,
 	"name": "garage",
 	"description": "a simple data file store",
 	"version": "0.0.6",
